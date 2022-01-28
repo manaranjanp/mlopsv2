@@ -18,3 +18,8 @@ This directory contains lab notebooks demonstrating data related challenges.
 ### NLP Augmentation
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/data/NLP_Augmentation_Demo.ipynb)
+
+
+### Imbalanced Data
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/data/Scania%20Truck%20Failure.ipynb)

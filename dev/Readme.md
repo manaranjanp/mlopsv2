@@ -8,3 +8,9 @@ https://manaranjan.gitbook.io/mlops/managing-data/data-versioning/git-overview
 
 https://manaranjan.gitbook.io/mlops/managing-data/data-versioning/dvc-overview
 
+
+
+### Data Formats and Large Datasets Notebook
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/data/Data_Formats_and_Large_Datasets.ipynb)
+

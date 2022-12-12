@@ -9,3 +9,6 @@ This folder contains files for model deployment.
 
 ### Model consumer as an App
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/deploy/Used_Car_Price_App.ipynb)
+
+### Containerizing the Model
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/deploy/Model_Container.ipynb)

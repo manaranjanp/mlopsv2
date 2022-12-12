@@ -10,7 +10,7 @@ https://manaranjan.gitbook.io/mlops/managing-data/data-versioning/dvc-overview
 
 ### Using Model Pipelines
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/dev/Using%20Model%20Pipelines%201.0.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/dev/ML_Pipeline.ipynb)
 
 ### Simulating Prediction System
 
@@ -18,7 +18,7 @@ https://manaranjan.gitbook.io/mlops/managing-data/data-versioning/dvc-overview
 
 ### Experiment Tracking
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/dev/Experiment_Tracking_1_0.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/dev/Model%20Expriment.ipynb)
 
 ### Model Persistence
 

@@ -1,6 +1,6 @@
-Material for MLOps Training
+# MLOps Training
 
-## Objective:
+### Objective:
 
 MLOps, relatively a new discipline, helps organizations and business leaders generate long-term value and
 reduce risk associated with data science, machine learning, and AI initiatives. As per this report, more

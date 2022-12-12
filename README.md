@@ -22,12 +22,12 @@ model accuracies.
 6. Learn model deployment concepts like model compression, concept drift, monitoring and model
 updates.
 
-## MLOps Overview MLOPS Overview
+### MLOps Overview MLOPS Overview
 - Challenges of Operationalizing ML Models
 - Data Architecture in Enterprises and ML Systems
 - Types of ML Systems and Constraints
 
-## Data Preparation
+### Data Preparation
 
 - Optimal Data Formats
 - Data Challenges Data Augmentation
@@ -35,7 +35,7 @@ updates.
 - Active Learning Sampling
 - Data Versioning
 
-## Model Development 
+### Model Development 
 
 - Model Pipelines
 - Experiment Tracking
@@ -45,7 +45,7 @@ updates.
 - Model Exchange Formats
 - ML Project Structure
 
-## Model Deployment 
+### Model Deployment 
 
 - Model Deployment Strategies
 - Model-in-Service Deployment
@@ -53,9 +53,9 @@ updates.
 - Model Containerization
 - CICD Integration
 
-## Model Monitoring
+### Model Monitoring
 
 - Data Drift
 - Concept Drift
 
-## End to End Deployment End to End Model Deployment on Cloud Demo(ML Azure)
+### End to End Deployment End to End Model Deployment on Cloud Demo(ML Azure)

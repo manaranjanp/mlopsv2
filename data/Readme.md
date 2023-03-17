@@ -19,7 +19,7 @@ This directory contains lab notebooks demonstrating data related challenges.
 
 ### NLP Augmentation
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv1/blob/main/data/NLP_Augmentation_Demo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv2/blob/main/data/NLP_Augmentation_Demo.ipynb)
 
 ## Introduction to Git and DVC
 

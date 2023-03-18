@@ -14,7 +14,7 @@ This folder contains notebooks and datasets for the model development stage.
 
 ### Model Persistence
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv2/blob/main/dev/Model_Persistence_1_0.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv2/blob/main/dev/Model_Persistence%20ONNX%201.0.ipynb)
 
 ### Model Search - AutoML
 
